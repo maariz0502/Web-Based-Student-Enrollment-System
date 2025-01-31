@@ -5,7 +5,9 @@ This project involves designing and implementing a Web-Based Student Enrollment 
 Database Concepts:
 
 Relational Database Schema:
+
 -Defining SQL tables for students, courses, sections, enrollment, and grades.
+
 -Implementing Primary Keys (PK), Foreign Keys (FK), and Constraints to ensure data consistency.
 
 Stored Procedures:
@@ -46,5 +48,6 @@ Admin Panel:
 -Providing a web-based interface for administrators to add, update, and delete students and manage grades.
 
 Error Handling & Notifications:
+
 -Displaying meaningful error messages for failed enrollments due to prerequisites, deadlines, or seat availability.
 
