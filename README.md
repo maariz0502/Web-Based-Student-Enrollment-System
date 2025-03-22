@@ -1,4 +1,4 @@
-# CMSC4003_Web-Based-Student-Enrollment-System
+# Web-Based-Student-Enrollment-System
 
 This project involves designing and implementing a Web-Based Student Enrollment Information Management System that allows students and administrators to browse, enroll, and manage enrollment data. The system provides various functionalities, including student personal and academic information management, course enrollment with prerequisite and availability checks, and administrative operations such as student registration, updating, and grade management. Additionally, concurrency control mechanisms must be implemented to maintain data integrity when multiple users interact with the system simultaneously.
 
